@@ -9,6 +9,9 @@
   "module": "./build/index.js",
   "types": "./build/index.d.ts",
   "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/sumbatx15/visual-builder-parser.git"
