@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/sumbatx15/visual-builder-parser/compare/v1.0.0...v1.0.1) (2023-05-22)
+
+
+### Bug Fixes
+
+* added publishConfig ([54bed35](https://github.com/sumbatx15/visual-builder-parser/commit/54bed355605a07741b1ddf5b2d00f8364908b27a))
+
 # 1.0.0 (2023-05-22)
 
 
