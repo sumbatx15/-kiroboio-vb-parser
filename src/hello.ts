@@ -364,5 +364,3 @@ export const parse = (data: typeof mock) => {
   );
   return prettyCode;
 };
-
-fs.writeFileSync('output.ts', parse(mock));
