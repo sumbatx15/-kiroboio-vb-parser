@@ -1,6 +1,6 @@
 {
   "name": "@sumbat/vb-parser",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "author": "sumbatx15",
   "license": "MIT",
   "description": "A typescript boilerplate using swc to release a package on npm",
