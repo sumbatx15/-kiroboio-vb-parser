@@ -362,5 +362,6 @@ export const parse = (data: typeof mock) => {
       plugins: [p_parserBabel],
     },
   );
+  
   return prettyCode;
 };
