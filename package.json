@@ -4,7 +4,11 @@
   "author": "Sumbatx15",
   "license": "MIT",
   "description": "A typescript boilerplate using swc to release a package on npm",
+  "type": "commonjs",
   "main": "./build/index.js",
+  "module": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "private": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/sumbatx15/visual-builder-parser.git"
