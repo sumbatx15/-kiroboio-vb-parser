@@ -1,6 +1,6 @@
 {
-  "name": "typescript-boilerplate-package",
-  "version": "1.0.3",
+  "name": "@kiroboio/vb-parser",
+  "version": "0.0.0-development",
   "author": "Sumbatx15",
   "license": "MIT",
   "description": "A typescript boilerplate using swc to release a package on npm",
@@ -37,7 +37,8 @@
     "build:swc:watch": "swc ./src -d build -w",
     "lint": "eslint ./src --ext .ts",
     "prettier": "prettier --write './src/**/*.{ts,js,json}'",
-    "release": "semantic-release"
+    "release": "semantic-release",
+    "semantic-release": "semantic-release"
   },
   "dependencies": {
     "@babel/generator": "^7.21.9",
@@ -71,7 +72,7 @@
     "nodemon": "2.0.22",
     "prettier": "^2.8.8",
     "rimraf": "5.0.0",
-    "semantic-release": "21.0.1",
+    "semantic-release": "^21.0.2",
     "typescript": "5.0.4"
   }
 }
