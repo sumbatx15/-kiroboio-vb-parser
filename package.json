@@ -1,6 +1,6 @@
 {
   "name": "@kiroboio/vb-parser",
-  "version": "0.0.0-development",
+  "version": "1.0.5",
   "author": "sumbatx15",
   "license": "MIT",
   "description": "A typescript boilerplate using swc to release a package on npm",
