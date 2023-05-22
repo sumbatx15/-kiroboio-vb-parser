@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/sumbatx15/visual-builder-parser/compare/v1.0.3...v1.0.4) (2023-05-22)
+
+
+### Bug Fixes
+
+* changed author ([fd90e88](https://github.com/sumbatx15/visual-builder-parser/commit/fd90e88329d357c960a89eede031a44e220dfae7))
+
 ## [1.0.3](https://github.com/sumbatx15/visual-builder-parser/compare/v1.0.2...v1.0.3) (2023-05-22)
 
 
