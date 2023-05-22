@@ -4,7 +4,6 @@
   "author": "sumbatx15",
   "license": "MIT",
   "description": "A typescript boilerplate using swc to release a package on npm",
-  "type": "commonjs",
   "main": "./build/index.js",
   "module": "./build/index.js",
   "types": "./build/index.d.ts",
